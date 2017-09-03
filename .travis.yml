@@ -5,9 +5,9 @@ language: c
 os:
 - linux
 
-dist: trusty
+#dist: trusty
 
-sudo: required
+#sudo: required
 
 addons:
   apt:
